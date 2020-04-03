@@ -9,34 +9,30 @@ Let's learn and create awesome stuff together.
 
 ### Content
 
-- [Day 1](./day1/index.md)
+- Day 1/100: I learned how networking works in cloud computing, vpc and subnets in aws, ssh, Ipv4 (octet), and deploying a production app to aws.
 
-Day 1/100: I learned how networking works in cloud computing, vpc and subnets in aws, ssh, Ipv4 (octet), and deploying a production app to aws.
-
-I also learned about material design from https://material.io/design/introduction and https://twitter.com/EmmanuelOluyale/status/1179156828808208386
+I also learned about material design from [https://material.io/design/introduction](https://material.io/design/introduction) and [https://youtu.be/wtLJPvx7-ys](https://youtu.be/wtLJPvx7-ys)
 
 
-Day 2/100: created a text editor using Slate.js and http://socket.io, the editor syncs across browsers, much like google docs, and would be useful for the ***dollop*** project I would be working on in the days to come. https://t.co/7lcWk8sJJg?amp=1
+- Day 2/100: created a text editor using Slate.js and [http://socket.io](http://socket.io), the editor syncs across browsers, much like google docs, and would be useful for the ***dollop*** project I would be working on in the days to come. https://t.co/7lcWk8sJJg?amp=1
 
-Day 3/100: Read through Slate.js Documentation, implemented my custom formatting for the editor, implemented shortcut commands for the editor, still need to tidy up the UI for the editor.
+- Day 3/100: Read through Slate.js Documentation, implemented my custom formatting for the editor, implemented shortcut commands for the editor, still need to tidy up the UI for the editor.
 
-Day 4/100: Implemented a Web playground with react, similar to http://codepen.io, it takes your html,css and js and renders the result as you write code. Thanks,
+- Day 4/100: Implemented a Web playground with react, similar to [http://codepen.io](http://codepen.io), it takes your html,css and js and renders the result as you write code. Thanks,
 @Folabi_xo for suggesting I build this today.
 
-Day 5/100: I Improved my knowledge of regular expressions and implemented a template engine (using regex) that I could use for my code generator Project. also researched commander npm for building the cli.
+- Day 5/100: I Improved my knowledge of regular expressions and implemented a template engine (using regex) that I could use for my code generator Project. also researched commander npm for building the cli.
 
-Day 6/100: I read the material UI component api documentation and implemented a simple search application in react, and read Airtable documentation to use as a database for quick prototypes.
+- Day 6/100: I read the material UI component api documentation and implemented a simple search application in react, and read Airtable documentation to use as a database for quick prototypes.
 
-- Started the next day gap
+- Day 7/100: Implemented the exercise application with material ui following this tutorial playlist.
 
-Day 7/100: Implemented the exercise application with material ui following this tutorial playlist.
+- Day 8/100:  Solved Algorithm questions on [https://codewars.com](https://codewars.com) , would combine with [https://hackerrank.com](https://hackerrank.com) in the coming days perhaps js for codewars and python on hackerrank.
 
-Day 8/100:  Solved Algorithm questions on https://codewars.com , would combine with https://hackerrank.com in the coming days perhaps js for codewars and python on hackerrank.
-
-Day 9/100:  found and read this document https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf to compare engineering practices across companies.
+- Day 9/100:  found and read this document [https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf) to compare engineering practices across companies.
 Also learned about managing some of the limitations of microservices with event-driven microservices
 
-Day 10/100: to understand stuff better, I implemented my custom JavaScript Promise this article helped https://levelup.gitconnected.com/understand-javascript-promises-by-building-a-promise-from-scratch-84c0fd855720, Also Started implementation of a Custom React Renderer this is really helpful https://t.co/uvVzpbi2yf?amp=1
+- Day 10/100: to understand stuff better, I implemented my custom JavaScript Promise this article helped [https://levelup.gitconnected.com/understand-javascript-promises-by-building-a-promise-from-scratch-84c0fd855720](https://levelup.gitconnected.com/understand-javascript-promises-by-building-a-promise-from-scratch-84c0fd855720), Also Started implementation of a Custom React Renderer this is really helpful [https://blog.atulr.com/react-custom-renderer-1/](https://blog.atulr.com/react-custom-renderer-1/)
 
 
 Day 11/100: solving through 100algorithms alongside codewars and hackerrank, trying to find a pattern to problem solving, would write an article if I do find, here is PizzaPokerGuy's repo https://t.co/yddnIPoZNw?amp=1
@@ -202,3 +198,7 @@ Day 88,89,90,91: spent time going through layout design after being inspired by 
 Day 92: spent time learning about the Feistel block cipher, hashing like bcrypt, scrypt and even SHA-1 and MD5, encryption algorithms like 3DES, Blowfish, AES. I also learned about Rainbow Tables. I worked with https://auth0.com too.
 
 Day 93 - 100: skipped day 96 though, (power issues). worked with eks, eksctl, kubectl, codebuild and code pipeline to run a deployment on aws. Also worked with qiskit ibm's quantum computer a good tutorial  is : https://youtu.be/aPCZcv-5qfA?list=PLQVvvaa0QuDc79w6NcGB0pnoJBgaKdfrW
+
+https://medium.com/@thedancercodes/our-watch-has-ended-the-converge-journey-750e980b4db0
+
+converge system architectures
